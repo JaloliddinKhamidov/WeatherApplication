@@ -23,3 +23,14 @@ Usage:
 - Compile and Run: Navigate to the project directory and compile the Java files. Then, run the Main class.
 - Using the App: Upon launching the app, you'll see a search field where you can enter the name of a location (e.g., city or country).
 - Click the search button to fetch weather information for that location. If the location data is found, weather details will be displayed. If not, an error message will appear.
+
+
+Weather Information App displaying weather details for a location.
+
+![image](https://github.com/JaloliddinKhamidov/WeatherApplication/assets/93047359/41a89629-3974-4f5d-aef2-7bd304f6b920)
+
+Error message displayed when location data is not found.
+
+![image](https://github.com/JaloliddinKhamidov/WeatherApplication/assets/93047359/703029f6-9091-4a1b-bbd3-cf060ee57e0e)
+
+
